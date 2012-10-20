@@ -1,0 +1,10 @@
+{
+    "attribution": "Data \u00a9 OpenStreetMap (and) contributors, CC-BY-SA", 
+    "name": "Vermont", 
+    "bounds": "-73.4875,42.638,-71.4661,45.1239", 
+    "minzoom": "0", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "13", 
+    "description": ""
+}
